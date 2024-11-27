@@ -1,3 +1,3 @@
 # gotools
 
-go test tools
+go test tools --
